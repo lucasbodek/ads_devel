@@ -1,4 +1,4 @@
 before_script:
   - cat /etc/hosts
   - cat /etc/hostname
-  - traceroute wp.pl
+  - tracepath wp.pl
