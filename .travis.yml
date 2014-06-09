@@ -1,4 +1,4 @@
 before_script:
   - cat /etc/hosts
   - cat /etc/hostname
-  - apt-get install sendmail
+  - sudo apt-get install sendmail
